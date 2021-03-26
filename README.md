@@ -14,7 +14,7 @@ I'm Sawan Karn! I'm a **Software Developer**:iphone:, looking to solve **real-wo
 [![Github](https://img.shields.io/badge/-sawankarn-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/sawankarn)
 
 <!-- Sample Dev class image -->
-<img src="https://i.ibb.co/SrKTcmb/dev-object.png" alt="dev_object" align="right" width="500" />
+<img src="https://i.imgur.com/jjRHaGZ.png" alt="dev_object" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
 * Working on Microservice Java :computer: Development.
